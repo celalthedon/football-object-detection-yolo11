@@ -30,9 +30,9 @@ The goal of this project is not only to train a detection model, but also to bui
 
 ### Sample Video Inference
 
-<a href="./assets/goat.mp4">
-  <img src="./assets/example.png" alt="Sample YOLO11 football detection video" width="800">
-</a>
+<video src="./assets/goat.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
