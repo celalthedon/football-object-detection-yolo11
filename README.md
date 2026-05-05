@@ -22,19 +22,17 @@ The goal of this project is not only to train a detection model, but also to bui
 
 ### Custom Image Prediction
 
-![Custom Image Prediction](example.png)
+![Custom Image Prediction](./assets/example.png)
 
 ### Training Metrics
 
-![Training Metrics](metrics.png)
+![Training Metrics](./assets/metrics.png)
 
-### Sample Video Prediction
+### Sample Video Inference
 
-<video src="goat.mp4" controls width="100%"></video>
-
-If the video does not render inside GitHub, open it directly here:
-
-[Watch sample prediction video](goat.mp4)
+<a href="./assets/goat.mp4">
+  <img src="./assets/example.png" alt="Sample YOLO11 football detection video" width="800">
+</a>
 
 ---
 
