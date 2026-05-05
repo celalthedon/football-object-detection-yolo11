@@ -30,9 +30,7 @@ The goal of this project is not only to train a detection model, but also to bui
 
 ### Sample Video Inference
 
-<video src="./assets/goat.mp4" controls width="800">
-  Your browser does not support the video tag.
-</video>
+[Watch sample video inference](./assets/goat.mp4)
 ---
 
 ## Project Overview
